@@ -66,4 +66,4 @@ option makes a particular run reproducible.
 - huggingface on Policy Gradient with PyTorch: https://huggingface.co/learn/deep-rl-course/unit4/introduction
 - Gym documentation: https://gymnasium.farama.org/
 - Working with gym in PyTorch: https://docs.pytorch.org/rl/main/reference/generated/knowledge_base/GYM.html
-- Lunar Lander the game: https://gymnasium.farama.org/environments/box2d/lunar_lander/
+- Gym Game documentation: https://gymnasium.farama.org/environments/classic_control/cart_pole/
