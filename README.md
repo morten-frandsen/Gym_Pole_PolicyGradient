@@ -1,4 +1,4 @@
-# repo_name
+# Mastering CartPole in Gym using Policy Gradient and PyTorchPolicyGradient
 more to come...
 
 ## CartPole Policy Gradient (REINFORCE)
